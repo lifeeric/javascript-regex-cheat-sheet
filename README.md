@@ -220,3 +220,7 @@ reg.test(str); // trueNegative
 const reg1 = /(?=[a-z]{3})(?!\d{3})/  
 reg1.test(str); // true
 ```
+
+## Adding more Soon!
+
+[Credit to](https://medium.com/better-programming/javascript-regular-expressions-cheatsheet-b55b0d6886e3)
